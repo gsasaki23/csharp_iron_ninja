@@ -1,0 +1,11 @@
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\bin\Debug\netcoreapp2.2\Iron Ninja.deps.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\bin\Debug\netcoreapp2.2\Iron Ninja.runtimeconfig.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\bin\Debug\netcoreapp2.2\Iron Ninja.runtimeconfig.dev.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\bin\Debug\netcoreapp2.2\Iron Ninja.dll
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\bin\Debug\netcoreapp2.2\Iron Ninja.pdb
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\obj\Debug\netcoreapp2.2\Iron Ninja.csprojAssemblyReference.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\obj\Debug\netcoreapp2.2\Iron Ninja.csproj.CoreCompileInputs.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\obj\Debug\netcoreapp2.2\Iron Ninja.AssemblyInfoInputs.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\obj\Debug\netcoreapp2.2\Iron Ninja.AssemblyInfo.cs
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\obj\Debug\netcoreapp2.2\Iron Ninja.dll
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\Iron Ninja\obj\Debug\netcoreapp2.2\Iron Ninja.pdb
